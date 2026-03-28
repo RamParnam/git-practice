@@ -1,4 +1,0 @@
-Login page
-Login validation added
-Main login change
-LS login change
